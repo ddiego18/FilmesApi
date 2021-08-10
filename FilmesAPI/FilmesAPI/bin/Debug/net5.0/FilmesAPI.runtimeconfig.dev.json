@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\DESENV17-SYNC\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\DESENV17-SYNC\\.nuget\\packages"
+    ]
+  }
+}
